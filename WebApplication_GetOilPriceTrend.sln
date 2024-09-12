@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_GetOilPriceTrend.Tests", "WebApplication_GetOilPriceTrend.Tests\WebApplication_GetOilPriceTrend.Tests.csproj", "{FBE7F113-0A1A-4BD4-B4E9-205CEC1564BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{0E427F5F-2EA1-44A8-8331-429FE41C0CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E427F5F-2EA1-44A8-8331-429FE41C0CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E427F5F-2EA1-44A8-8331-429FE41C0CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE7F113-0A1A-4BD4-B4E9-205CEC1564BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE7F113-0A1A-4BD4-B4E9-205CEC1564BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE7F113-0A1A-4BD4-B4E9-205CEC1564BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE7F113-0A1A-4BD4-B4E9-205CEC1564BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

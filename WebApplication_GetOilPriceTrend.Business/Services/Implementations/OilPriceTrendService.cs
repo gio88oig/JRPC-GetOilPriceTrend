@@ -51,7 +51,7 @@ namespace WebApplication_GetOilPriceTrend.Business.Services.Implementations
                         prices = historicalPricesFiltered.Select(h => new OilPriceDTO { price = h.Price, dateISO8601 = h.Date.ToString("yyyy-MM-dd") })
                     });
                 }
-                catch (Exception ex) { throw new Exception("Error in service"); }
+                catch (Exception) { throw new Exception("Error in service"); }
             }
             
         }
