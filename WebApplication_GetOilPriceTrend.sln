@@ -7,9 +7,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceTrend.Business", "WebApplication_GetOilPriceTrend.Business\WebApplication_GetOilPriceTrend.Business.csproj", "{8127EC0B-FC3E-48B6-90DE-1673801BB961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_GetOilPriceTrend.DTO", "WebApplication_GetOilPriceTrend.DTO\WebApplication_GetOilPriceTrend.DTO.csproj", "{673957BC-CA64-42E7-8898-DBA060491836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceTrend.DTO", "WebApplication_GetOilPriceTrend.DTO\WebApplication_GetOilPriceTrend.DTO.csproj", "{673957BC-CA64-42E7-8898-DBA060491836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_GetOilPriceTrend.Models", "WebApplication_GetOilPriceTrend.Models\WebApplication_GetOilPriceTrend.Models.csproj", "{0E427F5F-2EA1-44A8-8331-429FE41C0CF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceTrend.Models", "WebApplication_GetOilPriceTrend.Models\WebApplication_GetOilPriceTrend.Models.csproj", "{0E427F5F-2EA1-44A8-8331-429FE41C0CF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{35567037-E7BD-4256-94EC-BBE0AC170023}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
