@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5D7IVF9Z52o=",
+  "dgSpecHash": "H4mjFIebXWU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Business\\WebApplication_GetOilPriceTrend.Business.csproj",
+  "projectFilePath": "C:\\Users\\g.iannicelli\\source\\repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Business\\WebApplication_GetOilPriceTrend.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g.iannicelli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\g.iannicelli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512"

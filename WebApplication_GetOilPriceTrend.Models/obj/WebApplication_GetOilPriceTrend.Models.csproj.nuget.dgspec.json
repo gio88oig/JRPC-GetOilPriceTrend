@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj": {}
+    "C:\\Users\\g.iannicelli\\source\\repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj": {
+    "C:\\Users\\g.iannicelli\\source\\repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj",
+        "projectUniqueName": "C:\\Users\\g.iannicelli\\source\\repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj",
         "projectName": "WebApplication_GetOilPriceTrend.Models",
-        "projectPath": "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj",
+        "projectPath": "C:\\Users\\g.iannicelli\\source\\repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj",
         "packagesPath": "C:\\Users\\g.iannicelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\obj\\",
+        "outputPath": "C:\\Users\\g.iannicelli\\Source\\Repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\g.iannicelli\\AppData\\Roaming\\NuGet\\NuGet.Config",

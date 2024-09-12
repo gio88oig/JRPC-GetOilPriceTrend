@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.DTO\\WebApplication_GetOilPriceTrend.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\g.iannicelli\\Source\\Repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.DTO\\WebApplication_GetOilPriceTrend.DTO.csproj",
       "projectName": "WebApplication_GetOilPriceTrend.DTO",
-      "projectPath": "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.DTO\\WebApplication_GetOilPriceTrend.DTO.csproj",
+      "projectPath": "C:\\Users\\g.iannicelli\\Source\\Repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.DTO\\WebApplication_GetOilPriceTrend.DTO.csproj",
       "packagesPath": "C:\\Users\\g.iannicelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\g.iannicelli\\source\\repos\\WebApplication_GetOilPriceTrend\\WebApplication_GetOilPriceTrend.DTO\\obj\\",
+      "outputPath": "C:\\Users\\g.iannicelli\\Source\\Repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\g.iannicelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
