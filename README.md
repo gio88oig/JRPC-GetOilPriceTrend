@@ -1,4 +1,5 @@
-﻿# A web application that exposes a JSON RPC API for obtaining the historical oil price trend, built with .NET 8
+﻿# JSON RPC API Assigment
+A web application that exposes a JSON RPC API for obtaining the historical oil price trend, built with .NET 8
 
 ## Technologies used
 
@@ -11,13 +12,15 @@
 ## Project Structure
 
     .
-    ├── WebApplication_GetOilPriceTrend.API                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+    ├── WebApplication_GetOilPriceTrend.API				# Startup actions and API endpoints
+    ├── WebApplication_GetOilPriceTrend.Business		# Business logic: service for getting the oil price trend
+    ├── WebApplication_GetOilPriceTrend.DTO				# Data transfer objects exchanged with external users of the API
+    ├── WebApplication_GetOilPriceTrend.Models			# Models for the oil price trend (downloaded from a public JSON file)
+    ├── WebApplication_GetOilPriceTrend.Tests			# Unit tests for the business logic
+    ├── .dockerignore
+    ├── .gitignore
+	├── Dockerfile
+	└── README.md
 
 ## Usage with Docker
 
