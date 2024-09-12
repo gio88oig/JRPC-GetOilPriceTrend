@@ -11,7 +11,7 @@
         "projectName": "WebApplication_GetOilPriceTrend.Models",
         "projectPath": "C:\\Users\\g.iannicelli\\source\\repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\WebApplication_GetOilPriceTrend.Models.csproj",
         "packagesPath": "C:\\Users\\g.iannicelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.iannicelli\\Source\\Repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\obj\\",
+        "outputPath": "C:\\Users\\g.iannicelli\\source\\repos\\JRPC-GetOilPriceTrend\\WebApplication_GetOilPriceTrend.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\g.iannicelli\\AppData\\Roaming\\NuGet\\NuGet.Config",

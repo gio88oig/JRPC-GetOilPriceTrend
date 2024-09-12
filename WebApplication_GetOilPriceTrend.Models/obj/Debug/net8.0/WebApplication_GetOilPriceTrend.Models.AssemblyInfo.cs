@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplication_GetOilPriceTrend.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55af368d61284c2226e6a9088281dac69be13cac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4870c88012eb53f91f50d7c1be76b34f099d39b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplication_GetOilPriceTrend.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplication_GetOilPriceTrend.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
