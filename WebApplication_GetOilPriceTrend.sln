@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35230.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceTrend", "WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.csproj", "{C8EFA6B1-4C69-46DD-9F52-2643636AD329}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceTrend.API", "WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.API.csproj", "{C8EFA6B1-4C69-46DD-9F52-2643636AD329}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceTrend.Business", "WebApplication_GetOilPriceTrend.Business\WebApplication_GetOilPriceTrend.Business.csproj", "{8127EC0B-FC3E-48B6-90DE-1673801BB961}"
 EndProject
