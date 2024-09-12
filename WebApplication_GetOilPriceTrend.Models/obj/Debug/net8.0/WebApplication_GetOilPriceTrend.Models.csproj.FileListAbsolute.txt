@@ -1,0 +1,11 @@
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\bin\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.deps.json
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\bin\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.dll
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\bin\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.pdb
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.AssemblyInfoInputs.cache
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.AssemblyInfo.cs
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.csproj.CoreCompileInputs.cache
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.dll
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\refint\WebApplication_GetOilPriceTrend.Models.dll
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\WebApplication_GetOilPriceTrend.Models.pdb
+C:\Users\g.iannicelli\source\repos\WebApplication_GetOilPriceTrend\WebApplication_GetOilPriceTrend.Models\obj\Debug\net8.0\ref\WebApplication_GetOilPriceTrend.Models.dll
