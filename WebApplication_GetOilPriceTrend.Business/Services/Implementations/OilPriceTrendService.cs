@@ -32,10 +32,11 @@ namespace WebApplication_GetOilPriceTrend.Business.Services.Implementations
             DateTime startDate = DateTime.Now, endDate = DateTime.Now;
 
             // Input validation
-            if (!validateInput(startDateISO8601, endDateISO8601, out startDate, out endDate))
+            var validationMsg = validateInput(startDateISO8601, endDateISO8601, out startDate, out endDate);
+            if (!string.IsNullOrEmpty(validationMsg))
             {
-                _logger.LogError("Input validation error");
-                throw new Exception("Input validation error");
+                _logger.LogError("Validation message: " + validationMsg);
+                throw new Exception(validationMsg);
             }
             else
             {
@@ -56,19 +57,23 @@ namespace WebApplication_GetOilPriceTrend.Business.Services.Implementations
         }
 
         /// <summary>
-        /// Ensure startDateISO8601 and endDateISO8601 are in ISO8601 format and returns their rapresentation in DateTime class
+        /// Ensure startDateISO8601 and endDateISO8601 are valids and returns their representation in DateTime class
         /// </summary>
         /// <param name="startDateISO8601"></param>
         /// <param name="endDateISO8601"></param>
         /// <param name="startDate"></param>
         /// <param name="endDate"></param>
-        /// <returns>True if both input dates are in ISO8601 format</returns>
-        private bool validateInput(string startDateISO8601, string endDateISO8601, out DateTime startDate, out DateTime endDate)
+        /// <returns>In case of validation errors return error message, otherwise an empty message</returns>
+        private string validateInput(string startDateISO8601, string endDateISO8601, out DateTime startDate, out DateTime endDate)
         {
             bool startValid = DateTime.TryParseExact(startDateISO8601, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out startDate);
             bool endValid = DateTime.TryParseExact(endDateISO8601, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out endDate);
 
-            return startValid && endValid;
+            if (!(startValid && endValid)) return "Date not in ISO format";
+
+            if (startDate > endDate) return "Start date cannot be greater than end date";
+
+            return string.Empty;
         }
     }
 }
