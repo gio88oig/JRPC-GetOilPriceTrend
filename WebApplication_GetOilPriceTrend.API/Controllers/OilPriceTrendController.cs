@@ -9,7 +9,7 @@ namespace WebApplication_GetOilPriceTrend.Controllers
     /// <summary>
     /// RPC Controller for defining API
     /// </summary>
-    [RpcRoute("rpc")]
+    [RpcRoute("")]
     public class OilPriceTrendController : RpcController
     {
         private readonly ILogger<OilPriceTrendController> _logger;

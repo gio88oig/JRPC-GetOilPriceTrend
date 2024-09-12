@@ -15,10 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.dockerignore = .dockerignore
 		.gitignore = .gitignore
+		Dockerfile = Dockerfile
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_GetOilPriceTrend.Tests", "WebApplication_GetOilPriceTrend.Tests\WebApplication_GetOilPriceTrend.Tests.csproj", "{FBE7F113-0A1A-4BD4-B4E9-205CEC1564BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication_GetOilPriceTrend.Tests", "WebApplication_GetOilPriceTrend.Tests\WebApplication_GetOilPriceTrend.Tests.csproj", "{FBE7F113-0A1A-4BD4-B4E9-205CEC1564BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
